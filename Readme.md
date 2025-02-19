@@ -39,9 +39,24 @@ Ne faire qu’une seule maquette de type zoning par type d’interface utilisate
 
 **Connexion d'un employé**
 
-**Prêt d'un document**
+Accueil invité | Connexion | Accueil employé
+---------------|-----------|----------------
+![](./Maquettes/Accueil%20-%20invité.png) | ![](./Maquettes/Connexion%20-%20invité.png) | ![](./Maquettes/Accueil%20-%20employé.png)  
 
-**Rappel d'un prêt du**
+**Création lecteur**
+Accueil employé | Formulaire personne | Liste des lecteurs
+----------------|---------------------|--------------------
+![](./Maquettes/Accueil%20-%20employé.png) | ![](./Maquettes/Création%20personne%20-%20employé.png) | ![](./Maquettes/Consultation%20-%20lecteurs.png)
+
+**Création document**
+Accueil employé | Formulaire document | Liste des documents
+----------------|---------------------|--------------------
+![](./Maquettes/Accueil%20-%20employé.png) | ![](./Maquettes/Création%20document%20-%20employé.png) | ![](./Maquettes/Consultation%20-%20documents%20-%20employé.png)
+
+**Prêt d'un document**
+Accueil employé | Formulaire prêt | Liste des prêts d'un lecteur
+----------------|-----------------|-----------------------------
+![](./Maquettes/Accueil%20-%20employé.png) | ![](./Maquettes/Création%20prêt%20-%20employé.png) | ![](./Maquettes/Consultation%20-%20prêts.png)
 
 ## 5. Le dictionnaire de données, les règles de gestion et d’organisation, le MCD et le MLD
 - [Voir dictionnaire de données](5.%20Dictionnaire%20de%20données.md)
