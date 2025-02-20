@@ -27,12 +27,12 @@ Ne faire qu’une seule maquette de type zoning par type d’interface utilisate
 - liste des personnes ![Liste des personnes](./Maquettes/Consultation%20-%20personnes%20-%20employé.png "Liste des personnes")
 
 **CRUD** :
-- personne (lecteur / bénévole / employé) ![Création d'une personne](./Maquettes/Création%20personne%20-%20employé.png "CRUD d'une personne")
-- document (livre / CD-Rom / journal / microfilm) ![CRUD d'un document](./Maquettes/Création%20document%20-%20employé.png "CRUD d'un document") 
-- prêt ![CRUD d'un prêt](./Maquettes/Création%20prêt%20-%20employé.png "CRUD d'un prêt")
+- Création d'une personne (lecteur / bénévole / employé) ![Création d'une personne](./Maquettes/Création%20personne%20-%20employé.png "CRUD d'une personne")
+- Création d'un document (livre / CD-Rom / journal / microfilm) ![CRUD d'un document](./Maquettes/Création%20document%20-%20employé.png "CRUD d'un document") 
+- Création d'un prêt ![CRUD d'un prêt](./Maquettes/Création%20prêt%20-%20employé.png "CRUD d'un prêt")
 
 **Connexion** : 
-- employé ![Connexion d'un employé](./Maquettes/Connexion%20-%20invité.png "Connexion d'un employé")
+- Connexion d'un employé ![Connexion d'un employé](./Maquettes/Connexion%20-%20invité.png "Connexion d'un employé")
 
 ### Enchaînement des écrans
 
@@ -58,6 +58,7 @@ Accueil employé | Formulaire prêt | Liste des prêts d'un lecteur
 ![](./Maquettes/Accueil%20-%20employé.png) | ![](./Maquettes/Création%20prêt%20-%20employé.png) | ![](./Maquettes/Consultation%20-%20prêts%20-%20employé.png)
 
 ## 5. Le dictionnaire de données, les règles de gestion et d’organisation, le MCD et le MLD
+
 - [Voir dictionnaire de données](5.%20Dictionnaire%20de%20données.md)
 - [Voir règles de gestion](5.%20Règles%20de%20gestion.md)
 - [Voir règles d'organisation](5.%20Règles%20d'organisation.md)
@@ -68,6 +69,14 @@ Accueil employé | Formulaire prêt | Liste des prêts d'un lecteur
 
 ##  6. Le diagramme de Classes des classes Métier
 
-![voir diagramme](./6.%20Diagramme%20de%20classes.drawio.png)
+![voir diagramme](./6.%20Diagramme%20de%20classes.drawio.png "Diagramme de classes")
 
 ##  7. Le diagramme de séquence et le diagramme d’activité pour un emprunt de CD
+
+### Diagramme de séquence pour un emprunt de CD-Rom
+
+![voir diagramme](./7.%20Diagramme%20de%20séquence.drawio.png "Diagramme de séquence d'un emprunt de CD-Rom")
+
+### Diagramme d'activité pour un emprunt de CD-Rom
+
+![voir diagramme](./7.%20Diagramme%20d'activité.drawio.png "Diagramme d'activité d'un emprunt de CD-Rom")
