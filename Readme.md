@@ -36,6 +36,11 @@ Ne faire qu’une seule maquette de type zoning par type d’interface utilisate
 
 ### Enchaînement des écrans
 
+**Consultation des documents de la médiathèque**
+Accueil invité | Consultation des documents
+---------------|---------------------------
+![](./Maquettes/Accueil%20-%20invité.png) | ![](./Maquettes/Consultation%20-%20documents%20-%20invité.png)
+
 **Connexion d'un employé**
 
 Accueil invité | Connexion | Accueil employé
